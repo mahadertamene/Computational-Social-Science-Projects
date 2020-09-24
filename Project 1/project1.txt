@@ -1,0 +1,11 @@
+cd /Users/mahadertamene/Box\ Sync/Berkeley\ Epi\ PhD/Fall\ 2020\ Courses/SOCIOL\ 273L-Computational\ Social\ Science\ Part\ A/Group\ Projects/
+git clone https://github.com/mahadertamene/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects/
+mkdir Project\ 1
+cd Project\ 1/
+touch project1.txt
+vim project1.txt 
+:wq
+git add project1.txt
+git commit -m "add project1.txt to repo"
+git push
